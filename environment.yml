@@ -38,7 +38,7 @@ dependencies:
     - psutil
     - mrcfile
     - tensorboard
-    - gaussian-splatting/submodules/diff-gaussian-rasterization
+    - gaussian-splatting/submodules/diff-gaussian-rasterization-custom
     - gaussian-splatting/submodules/simple-knn
     - wandb
     - smplx
